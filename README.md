@@ -10,11 +10,17 @@ https://nwjs.io/
 
 ---
 
+![001](app/src/media/textures/screenshots/001a.PNG)
+
+---
+
 To run this application we:
 * Download NW.js
 * Extract All
 * Find the nw.exe icon
 * Drag the folder named **app** onto the **nw.exe** icon  
+
+### [Video Instructions](app/src/tutorials/instructions.mp4)
 
 ---
 
