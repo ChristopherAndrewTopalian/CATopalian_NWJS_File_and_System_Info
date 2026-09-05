@@ -16,9 +16,9 @@ function makeInterface()
 
     let theTitle = ce('a');
     theTitle.id = 'theTitle';
-    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_System_Info_and_File_System';
+    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_File_and_System_Info';
     theTitle.target = '_blank';
-    theTitle.textContent = 'CATopalian JavaScript NW.js System Info and File System';
+    theTitle.textContent = 'CATopalian NWJS File and System Info';
     theTitle.style.margin = '4px';
     theTitle.style.fontSize = '15px';
     theTitle.style.fontFamily = 'Arial';
@@ -466,7 +466,7 @@ function makeInterface()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting

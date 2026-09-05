@@ -1,9 +1,5 @@
-# CATopalian JavaScript NW.js System Info and File System
+# CATopalian NWJS File and System Info
 A JavaScript NW.js Node.js application that teaches System Info and File System functions of Node.js.
-
----
-
-![screenshot_001](src/src/media/textures/screenshots/001a.PNG)
 
 ---
 
@@ -18,9 +14,7 @@ To run this application we:
 * Download NW.js
 * Extract All
 * Find the nw.exe icon
-* Drag the src folder onto the nw.exe icon  
-
-Full Instructions on Running ourFirstApp here: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js
+* Drag the folder named **app** onto the **nw.exe** icon  
 
 ---
 
@@ -29,9 +23,17 @@ Full Instructions on Running ourFirstApp here: https://github.com/ChristopherAnd
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Double click the HTML file to start the App
+5. Drag the folder named **app** onto the nw.exe icon 
 
 ---
 
 Happy Scripting :-)
+
+---
+
+// Dedicated to God the Father  
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026  
+// https://github.com/ChristopherAndrewTopalian  
+// https://github.com/ChristopherTopalian  
+// https://sites.google.com/view/CollegeOfScripting
 
